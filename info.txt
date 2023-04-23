@@ -1,0 +1,5 @@
+// npm init  
+// npm install typescript --save-dev
+// npx tsc --init --rootDir src --outDir build
+// npx tsc --watch
+// create a folder with foldername src
