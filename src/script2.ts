@@ -66,6 +66,8 @@ obj2 = {
     age:23
 }
 
+
+
 // program 9
 function mul(x:number,y:number):void{
     console.log(x+y)
