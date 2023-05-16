@@ -44,7 +44,7 @@
 // let q11 = amolE.displayName()
 // console.log(q11)
 // //amolE.greet() private
-// program 4
+// program 4cd ..
 class PersonE {
     constructor(name, lname) {
         this.name = name;

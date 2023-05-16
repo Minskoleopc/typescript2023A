@@ -61,7 +61,7 @@
 // //amolE.greet() private
 
 
-// program 4
+// program 4cd ..
 class PersonE {
     constructor(public name:string,public lname:string){}
 }

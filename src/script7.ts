@@ -48,8 +48,6 @@
 
 
 // program 2
-
-
 // interface Student {
 //     displayFullName: () => string
 //     displayAge: () => number
